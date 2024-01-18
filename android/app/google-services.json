@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "528831283297",
+    "project_id": "gempar-8cfef",
+    "storage_bucket": "gempar-8cfef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528831283297:android:f13bd000fc9af5c0ddaa20",
+        "android_client_info": {
+          "package_name": "com.example.hehe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtaUFPP7wiygpiBBY8TF2YrjPW-JKmiac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
